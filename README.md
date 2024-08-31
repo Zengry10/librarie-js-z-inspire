@@ -2,6 +2,8 @@
 
 `z-inspire` is a CLI tool that provides inspirational quotes based on your mood.
 
+Voici le lien vers le package npm : https://www.npmjs.com/package/z-inspire
+
 ## Installation
 
 To install `z-inspire` globally, run the following command:
